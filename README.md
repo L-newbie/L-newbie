@@ -37,16 +37,6 @@ Scikit-learn · TensorFlow / PyTorch · AI 系统设计
 
 ---
 
-## 🚀 项目
-
-| 项目 | 技术与描述 |
-|-----|-----------|
-| 数据可视化平台 | Flask + Echarts，实现行业数据实时可视化 |
-| 电商用户分析 | Python + SQL，利用 AI 模型分析用户行为 |
-| 旅游行业智能分析 | Pandas + Power BI + AI，洞察旅游市场趋势 |
-
----
-
 ## 🔬 AI & 数据研究方向
 
 - AI辅助数据分析与决策  
