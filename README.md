@@ -31,9 +31,9 @@ Scikit-learn · TensorFlow / PyTorch · AI 系统设计
 
 ## 📊 GitHub 统计
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=L-newbie&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-newbie&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
