@@ -18,7 +18,11 @@ AI 数据工程师 ｜ Python · SQL · 数据可视化 · 人工智能
 我关注的问题是：
 
 **如何通过数据和 AI 理解复杂系统，并将其转化为可执行决策。**
+---
 
+## 📫 联系方式
+
+Email: weidong624.he@gmail.com
 ---
 
 ## ⚙ 技术栈
@@ -46,12 +50,6 @@ Scikit-learn · TensorFlow / PyTorch · AI 系统设计
 - 行业数据智能应用
 
 > 数据解释过去，AI理解现在，模型预测未来
-
----
-
-## 📫 联系方式
-
-Email: weidong624.he@gmail.com
 
 ---
 
