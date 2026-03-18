@@ -24,6 +24,7 @@ AI 数据工程师 ｜ Python · SQL · 数据可视化 · 人工智能
 ## 📫 联系方式
 
 Email: weidong624.he@gmail.com
+
 ---
 
 ## ⚙ 技术栈
